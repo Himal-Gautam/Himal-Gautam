@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Himal-Gautam?tab=repositories](https://github.com/Himal-Gautam?tab=repositories)
 
-- 💬 Ask me about **Full Stack & Python**
+- 💬 Ask me about **MERN Full Stack & Python**
 
-- 📫 How to reach me **mukundpramodgautam@gmail.com**
+- 📫 How to reach me **himal.developer.job@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GlUCkFJJqi-OtqcCUDezSbsMheCPuULD/view?usp=sharing](https://drive.google.com/file/d/1GlUCkFJJqi-OtqcCUDezSbsMheCPuULD/view?usp=sharing)
 
