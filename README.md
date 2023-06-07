@@ -50,8 +50,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himal-gautam&" alt="himal-gautam" /></p>
 
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
