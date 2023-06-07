@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm</h1>
+<h1 align="center">Hi 👋, I'm Himal Gautam</h1>
 
 ![gitartwork](gitartwork.svg)
 
