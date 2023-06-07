@@ -26,6 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building the Logical Layer: Top Frameworks for Three-Tier Architecture](https://medium.com/@himalpgautam/building-the-logical-layer-top-frameworks-for-three-tier-architecture-8c8114193fdc?source=rss-937ce6f643f9------2)
+- [Website vs. Web Application: Understanding the Differences](https://medium.com/@himalpgautam/website-vs-web-application-understanding-the-differences-55411f022e64?source=rss-937ce6f643f9------2)
+- [SQL and NoSQL Databases: Should They Be Used Together for Web Applications?](https://medium.com/@himalpgautam/sql-and-nosql-databases-should-they-be-used-together-for-web-applications-19b0bd56cbd3?source=rss-937ce6f643f9------2)
+- [Exploring User Authentication Methods in Express Node Server](https://medium.com/@himalpgautam/exploring-user-authentication-methods-in-express-node-server-e7704775ef4e?source=rss-937ce6f643f9------2)
+- [Beginner’s Guide: Best Sites to Learn Coding](https://medium.com/@himalpgautam/beginners-guide-best-sites-to-learn-coding-2da367df6f1f?source=rss-937ce6f643f9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
