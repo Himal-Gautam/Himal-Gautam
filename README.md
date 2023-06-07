@@ -13,11 +13,17 @@
 
 - 📝 I regularly write articles on [https://medium.com/@himalpgautam](https://medium.com/@himalpgautam)
 
-- 💬 Ask me about **MERN, Python, JS, Blockchain**
+- 💬 Ask me about **MERN, Python, JS, Blockchain, Full Stack Development, DevOps**
 
 - 📫 How to reach me **himal.developer.job@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OECbrT5LbtI7WHbdxOo7PrCCSB0xaQuO/view](https://drive.google.com/file/d/1OECbrT5LbtI7WHbdxOo7PrCCSB0xaQuO/view)
+
+- ⚡ Fact about me **Keep Learning and keep gaining Knowledge**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +35,7 @@
 <a href="https://medium.com/@himalpgautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@himalpgautam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/himalpgautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himalpgautam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/himalgautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himalgautam" height="30" width="40" /></a>
+<a href="/https://medium.com/feed/@himalpgautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@himalpgautam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
