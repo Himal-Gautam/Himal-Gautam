@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Himal Gautam</h1>
+<h1 align="center">Hi 👋, I'm</h1>
+
+![gitartwork](gitartwork.svg)
+
 <h3 align="center">A Full Stack Developer with a strong foundation in computer science, specializing in Full Stack Development – MERN. I have hands-on experience with a variety of programming languages and technologies. I’m passionate about learning and always looking to expand my knowledge in the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himal-gautam&label=Profile%20views&color=0e75b6&style=flat" alt="himal-gautam" /> </p>
@@ -47,7 +50,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himal-gautam&" alt="himal-gautam" /></p>
 
-![gitartwork](gitartwork.svg)
 
 # Blog posts
 
