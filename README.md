@@ -47,6 +47,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himal-gautam&" alt="himal-gautam" /></p>
 
+![gitartwork](gitartwork.svg)
+
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
