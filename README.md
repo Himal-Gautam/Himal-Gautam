@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OECbrT5LbtI7WHbdxOo7PrCCSB0xaQuO/view](https://drive.google.com/file/d/1OECbrT5LbtI7WHbdxOo7PrCCSB0xaQuO/view)
 
-- ⚡ Fact about me **"Keep Learning and keep gaining Knowledge" is my mantra**
+- ⚡ My mantra of life is **"Keep Learning and keep gaining Knowledge"**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
