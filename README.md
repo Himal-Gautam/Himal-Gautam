@@ -10,13 +10,11 @@
 <p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himal-gautam&show_icons=true&locale=en&layout=compact" alt="himal-gautam" /></p>
+</br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=himal-gautam&show_icons=true&locale=en" alt="himal-gautam" />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himal-gautam&" alt="himal-gautam" /></p>
-
-</br>
-</br>
 </p>
-</br>
+
 <hr>
 <p align="left"> <a href="https://twitter.com/_himal_gautam" target="blank"><img src="https://img.shields.io/twitter/follow/_himal_gautam?logo=twitter&style=for-the-badge" alt="_himal_gautam" /></a> </p>
 
