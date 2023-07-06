@@ -15,7 +15,7 @@
 </br>
 </p>
 </br>
-
+<hr>
 <p align="left"> <a href="https://twitter.com/_himal_gautam" target="blank"><img src="https://img.shields.io/twitter/follow/_himal_gautam?logo=twitter&style=for-the-badge" alt="_himal_gautam" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain Development**
