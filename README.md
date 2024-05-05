@@ -48,7 +48,11 @@ Dynamic software developer with over 1+ year of experience in software developme
 - [Beginner’s Guide: Best Sites to Learn Coding](https://medium.com/@himalpgautam/beginners-guide-best-sites-to-learn-coding-2da367df6f1f?source=rss-937ce6f643f9------2)
 <!-- BLOG-POST-LIST:END -->
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
