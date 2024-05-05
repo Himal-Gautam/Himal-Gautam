@@ -49,5 +49,6 @@ Dynamic software developer with over 1+ year of experience in software developme
 <!-- BLOG-POST-LIST:END -->
 
 ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
