@@ -32,6 +32,7 @@ Dynamic software developer with over 1+ year of experience in software developme
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Himal-Gautam&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![snake gif](https://github.com/1Seamy/1SeaMy/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -48,11 +49,7 @@ Dynamic software developer with over 1+ year of experience in software developme
 - [Beginner’s Guide: Best Sites to Learn Coding](https://medium.com/@himalpgautam/beginners-guide-best-sites-to-learn-coding-2da367df6f1f?source=rss-937ce6f643f9------2)
 <!-- BLOG-POST-LIST:END -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
