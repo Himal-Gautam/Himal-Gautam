@@ -35,7 +35,7 @@ Dynamic software developer with over 1+ year of experience in software developme
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himal-Gautam/Himal-Gautam/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Himal-Gautam/Himal-Gautam/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Himal-Gautam/Himal-Gautam/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Himal-Gautam/Himal-Gautam/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ## ✍️ Random Dev Quote
