@@ -12,7 +12,7 @@ Dynamic software developer with over 1+ year of experience in software developme
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himal-gautam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@himalpgautam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15796687) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_himal_gautam) 
 
 ## 💻 Tech Stack
-
+  
 | Type                     | Skills                                                                                                              |
 |--------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Frontend                 | [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,angular,react,tailwindcss,redux,sass,bootstrap,materialui,nextjs)](https://skillicons.dev) |
@@ -23,20 +23,24 @@ Dynamic software developer with over 1+ year of experience in software developme
 | Version Control & Tools  | [![My Skills](https://skillicons.dev/icons?i=git,vite,npm,vscode,figma,github,heroku,bash,powershell,postman)](https://skillicons.dev) |
 | Cloud Platforms          | [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)                            |
 
-
-
-# 📊 GitHub Stats:
+# 📊 GitHub Stats:  
 ![](https://github-readme-stats.vercel.app/api?username=Himal-Gautam&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Himal-Gautam&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himal-Gautam&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Himal-Gautam&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himal-Gautam/Himal-Gautam/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Himal-Gautam/Himal-Gautam/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Himal-Gautam/Himal-Gautam/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Himal-Gautam&theme=radical&no-frame=true&no-bg=false&margin-w=4">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himal-Gautam/Himal-Gautam/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Himal-Gautam/Himal-Gautam/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Himal-Gautam/Himal-Gautam/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
